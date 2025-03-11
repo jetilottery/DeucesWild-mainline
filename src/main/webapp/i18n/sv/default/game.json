@@ -1,0 +1,100 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "{@minRTP} % till {@maxRTP} %",
+    "paybackTitle": "Förväntad återbetalning",
+    "paybackBody": "I det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}.",
+    "subheading": "Lottkostnad: {ticketCost}",
+    "prizeLevel": "Prisnivå",
+    "description": "Beskrivning",
+    "prizeValue": "Prisvärde",
+    "descriptionText1": "Matcha joker 2-vinst",
+    "descriptionText2": "Bonusvinst",
+    "overallChances": "Sannolikheten att vinna ett pris är 1 på {odds} varje gång man spelar.",
+    "prizeDivision": "Prisindelning",
+    "prizeRemaining": "Ungefärligt antal återstående priser",
+    "oddsPerPlay": "Odds per spel"
+  },
+  "title": "MALL",
+  "MenuCommand": {
+    "price": "Pris",
+    "stake": "Insats",
+    "howToPlay": "Hjälp",
+    "paytable": "Vinsttabell",
+    "close": "Stäng",
+    "audio": {
+      "sound": "Ljud",
+      "on": "På",
+      "off": "Av"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fel: ",
+    "genericErrorText": "Det har inträffat ett internt fel. LÄMNA och starta om spelet."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "LOTTKOSTNAD",
+    "ticketSelect_ticketCost": "LOTTKOSTNAD",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "FÖRSÖK "
+    },
+    "footer_win": {
+      "BUY": "VINST",
+      "TRY": "DEMOVINST"
+    },
+
+    "button_buy": {
+      "BUY": "KÖP",
+      "TRY": "FÖRSÖK"
+    },
+    "button_try": "FÖRSÖK",
+    "button_retry": "FÖRSÖK IGEN",
+    "button_continue": "FORTSÄTT",
+    "button_moveToMoney": "FLYTTA TILL PENGAR",
+    "button_autoPlay": "AVSLÖJA ALLA",
+    "button_stop": "STOPPA",
+    "button_playAgain": {
+      "BUY": "SPELA IGEN",
+      "TRY": "FÖRSÖK IGEN"
+    },
+    "button_tryAgain": "FÖRSÖK IGEN",
+    "button_ok": "OK",
+    "button_exit": "LÄMNA",
+
+    "error_button_exit": "LÄMNA",
+    "error_title": "FEL",
+
+    "message_nonWin": "BÄTTRE LYCKA\nNÄSTA GÅNG",
+    "message_win": {
+      "BUY": "TOTAL VINST",
+      "TRY": "TOTAL DEMOVINST"
+    },
+
+    "howToPlay": "SÅ HÄR SPELAR DU",
+    "page1_line1": "[2]Avslöja en symbol med enkel joker 2 för att vinna motsvarande pris.",
+    "page1_line2": "[22]Avslöja en symbol med dubbel-joker 2 för att dubbla motsvarande pris.",
+    "page1_line3": "[222]Avslöja en symbol med trippel-joker 2 för att trippla motsvarande pris.",
+    "page1_line4": "[JOKER]Avslöja 3 eller fler jokerhatt-symboler för att starta bonusspelet.",
+
+    "page2_line1": "[WHEEL]Snurra hjulet för att starta bonusspelet.",
+    "page2_line2": "[WHEELPRIZE]Vinn ett pris när pekaren stannar på ett prisvärde.",
+    "page2_line3": "[WHEELARROW]Gå vidare till nästa hjul när pekaren stannar på en pilsymbol.",
+    "page2_line4": "[WHEELX]Landa på ett svart X så avlägsnas en jokerhatt. Bonusen avslutas när inga jokerhattar finns kvar.",
+
+
+    "winUpTo": "VINN UPP TILL",
+    "bonus": "BONUS",
+    "bonusNoWin": "INGEN BONUSVINST",
+    "bonusWin": "BONUSVINST",
+    "totalWin": "TOTAL VINST",
+    "infoBarText": "HITTA JOKER 2:or FÖR ATT VINNA!",
+    "bonusInfo": "3 eller fler låser upp bonusen",
+    "bonusInfo2": "Noll jokerhattar = bonusen avslutas",
+
+    "bonusSpinButton": "bonussnurrknapp",
+    "respin": "Omsnurr"
+  }
+}

@@ -1,0 +1,39 @@
+{"frames": {
+
+"wheelMiddleCircle":
+{
+	"frame": {"x":1,"y":1375,"w":633,"h":632},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":633,"h":632},
+	"sourceSize": {"w":639,"h":641},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wheelMiddleCircleRim":
+{
+	"frame": {"x":1,"y":725,"w":648,"h":648},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":648,"h":648},
+	"sourceSize": {"w":648,"h":648},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wheelOuterCircle":
+{
+	"frame": {"x":1,"y":1,"w":722,"h":722},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":6,"w":722,"h":722},
+	"sourceSize": {"w":733,"h":732},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game-1.png",
+	"format": "RGBA8888",
+	"size": {"w":724,"h":2008},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e4aea5f06ee1bd3e26f6b64aa77cb71f:f732079667e610d6d88501c442919eb2:5f209c681de9b838c81c16cabec82336$"
+}
+}

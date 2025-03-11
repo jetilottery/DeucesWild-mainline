@@ -1,0 +1,666 @@
+
+logoAnim.jpg
+size: 1859,1828
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/logoEffect_0005
+  rotate: false
+  xy: 2, 460
+  size: 461, 455
+  orig: 864, 486
+  offset: 190, 31
+  index: -1
+nonTrans/logoEffect_0023
+  rotate: true
+  xy: 2, 1373
+  size: 453, 459
+  orig: 864, 486
+  offset: 193, 27
+  index: -1
+nonTrans/logoEffect_0024
+  rotate: true
+  xy: 463, 1373
+  size: 453, 459
+  orig: 864, 486
+  offset: 193, 27
+  index: -1
+nonTrans/logoEffect_0025
+  rotate: true
+  xy: 2, 917
+  size: 454, 459
+  orig: 864, 486
+  offset: 193, 27
+  index: -1
+nonTrans/logoEffect_0026
+  rotate: true
+  xy: 465, 460
+  size: 455, 458
+  orig: 864, 486
+  offset: 193, 27
+  index: -1
+nonTrans/logoEffect_0027
+  rotate: true
+  xy: 925, 460
+  size: 455, 459
+  orig: 864, 486
+  offset: 193, 27
+  index: -1
+nonTrans/logoEffect_0028
+  rotate: true
+  xy: 935, 2
+  size: 456, 460
+  orig: 864, 486
+  offset: 193, 26
+  index: -1
+nonTrans/logoEffect_0029
+  rotate: true
+  xy: 1397, 2
+  size: 456, 460
+  orig: 864, 486
+  offset: 193, 26
+  index: -1
+nonTrans/logoEffect_0033
+  rotate: true
+  xy: 463, 917
+  size: 454, 459
+  orig: 864, 486
+  offset: 193, 27
+  index: -1
+nonTrans/logoEffect_0034
+  rotate: true
+  xy: 924, 1373
+  size: 453, 459
+  orig: 864, 486
+  offset: 193, 27
+  index: -1
+nonTrans/logoEffect_0035
+  rotate: true
+  xy: 1385, 1373
+  size: 453, 459
+  orig: 864, 486
+  offset: 193, 27
+  index: -1
+nonTrans/logoEffect_0036
+  rotate: true
+  xy: 924, 917
+  size: 454, 459
+  orig: 864, 486
+  offset: 193, 27
+  index: -1
+nonTrans/logoEffect_0037
+  rotate: true
+  xy: 1385, 917
+  size: 454, 459
+  orig: 864, 486
+  offset: 193, 27
+  index: -1
+nonTrans/logoEffect_0051
+  rotate: false
+  xy: 1386, 460
+  size: 455, 455
+  orig: 864, 486
+  offset: 192, 31
+  index: -1
+nonTrans/logoEffect_0052
+  rotate: true
+  xy: 2, 3
+  size: 455, 456
+  orig: 864, 486
+  offset: 192, 30
+  index: -1
+nonTrans/logoEffect_0062
+  rotate: false
+  xy: 460, 3
+  size: 473, 455
+  orig: 864, 486
+  offset: 184, 31
+  index: -1
+
+logoAnim2.jpg
+size: 1876,1838
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/logoEffect_0001
+  rotate: false
+  xy: 1394, 1379
+  size: 463, 457
+  orig: 864, 486
+  offset: 190, 29
+  index: -1
+nonTrans/logoEffect_0030
+  rotate: true
+  xy: 2, 921
+  size: 457, 460
+  orig: 864, 486
+  offset: 192, 26
+  index: -1
+nonTrans/logoEffect_0031
+  rotate: true
+  xy: 464, 921
+  size: 457, 460
+  orig: 864, 486
+  offset: 192, 26
+  index: -1
+nonTrans/logoEffect_0032
+  rotate: true
+  xy: 2, 1380
+  size: 456, 465
+  orig: 864, 486
+  offset: 192, 20
+  index: -1
+nonTrans/logoEffect_0038
+  rotate: true
+  xy: 469, 1380
+  size: 456, 459
+  orig: 864, 486
+  offset: 193, 27
+  index: -1
+nonTrans/logoEffect_0039
+  rotate: true
+  xy: 926, 921
+  size: 457, 459
+  orig: 864, 486
+  offset: 192, 27
+  index: -1
+nonTrans/logoEffect_0043
+  rotate: false
+  xy: 1387, 920
+  size: 463, 457
+  orig: 864, 486
+  offset: 190, 28
+  index: -1
+nonTrans/logoEffect_0044
+  rotate: false
+  xy: 2, 462
+  size: 463, 457
+  orig: 864, 486
+  offset: 190, 29
+  index: -1
+nonTrans/logoEffect_0046
+  rotate: false
+  xy: 467, 462
+  size: 463, 457
+  orig: 864, 486
+  offset: 190, 29
+  index: -1
+nonTrans/logoEffect_0049
+  rotate: false
+  xy: 930, 1380
+  size: 462, 456
+  orig: 864, 486
+  offset: 190, 30
+  index: -1
+nonTrans/logoEffect_0053
+  rotate: false
+  xy: 932, 461
+  size: 458, 457
+  orig: 864, 486
+  offset: 190, 29
+  index: -1
+nonTrans/logoEffect_0054
+  rotate: false
+  xy: 1392, 461
+  size: 461, 457
+  orig: 864, 486
+  offset: 189, 29
+  index: -1
+nonTrans/logoEffect_0055
+  rotate: false
+  xy: 2, 3
+  size: 462, 457
+  orig: 864, 486
+  offset: 189, 29
+  index: -1
+nonTrans/logoEffect_0058
+  rotate: false
+  xy: 931, 2
+  size: 468, 457
+  orig: 864, 486
+  offset: 187, 29
+  index: -1
+nonTrans/logoEffect_0061
+  rotate: false
+  xy: 1401, 2
+  size: 473, 457
+  orig: 864, 486
+  offset: 184, 29
+  index: -1
+nonTrans/logoEffect_0089
+  rotate: false
+  xy: 466, 3
+  size: 463, 457
+  orig: 864, 486
+  offset: 190, 29
+  index: -1
+
+logoAnim3.jpg
+size: 1912,1850
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/logoEffect_0002
+  rotate: false
+  xy: 2, 3
+  size: 466, 462
+  orig: 864, 486
+  offset: 187, 24
+  index: -1
+nonTrans/logoEffect_0021
+  rotate: false
+  xy: 473, 929
+  size: 470, 459
+  orig: 864, 486
+  offset: 185, 27
+  index: -1
+nonTrans/logoEffect_0022
+  rotate: true
+  xy: 470, 3
+  size: 462, 470
+  orig: 864, 486
+  offset: 190, 16
+  index: -1
+nonTrans/logoEffect_0040
+  rotate: true
+  xy: 945, 929
+  size: 459, 463
+  orig: 864, 486
+  offset: 191, 23
+  index: -1
+nonTrans/logoEffect_0041
+  rotate: false
+  xy: 2, 1390
+  size: 461, 458
+  orig: 864, 486
+  offset: 191, 28
+  index: -1
+nonTrans/logoEffect_0042
+  rotate: true
+  xy: 942, 2
+  size: 462, 470
+  orig: 864, 486
+  offset: 190, 16
+  index: -1
+nonTrans/logoEffect_0047
+  rotate: false
+  xy: 1410, 928
+  size: 464, 460
+  orig: 864, 486
+  offset: 189, 26
+  index: -1
+nonTrans/logoEffect_0050
+  rotate: true
+  xy: 465, 1390
+  size: 458, 464
+  orig: 864, 486
+  offset: 191, 22
+  index: -1
+nonTrans/logoEffect_0056
+  rotate: false
+  xy: 1414, 2
+  size: 463, 462
+  orig: 864, 486
+  offset: 189, 24
+  index: -1
+nonTrans/logoEffect_0059
+  rotate: false
+  xy: 2, 467
+  size: 471, 460
+  orig: 864, 486
+  offset: 185, 26
+  index: -1
+nonTrans/logoEffect_0063
+  rotate: false
+  xy: 475, 467
+  size: 474, 460
+  orig: 864, 486
+  offset: 184, 26
+  index: -1
+nonTrans/logoEffect_0064
+  rotate: false
+  xy: 951, 466
+  size: 474, 460
+  orig: 864, 486
+  offset: 184, 26
+  index: -1
+nonTrans/logoEffect_0066
+  rotate: false
+  xy: 931, 1390
+  size: 476, 458
+  orig: 864, 486
+  offset: 182, 28
+  index: -1
+nonTrans/logoEffect_0067
+  rotate: false
+  xy: 1409, 1390
+  size: 473, 458
+  orig: 864, 486
+  offset: 184, 28
+  index: -1
+nonTrans/logoEffect_0084
+  rotate: false
+  xy: 1427, 466
+  size: 483, 460
+  orig: 864, 486
+  offset: 181, 26
+  index: -1
+nonTrans/logoEffect_0086
+  rotate: false
+  xy: 2, 930
+  size: 469, 458
+  orig: 864, 486
+  offset: 185, 28
+  index: -1
+
+logoAnim4.jpg
+size: 1927,1867
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/logoEffect_0000
+  rotate: false
+  xy: 959, 1402
+  size: 463, 463
+  orig: 864, 486
+  offset: 190, 23
+  index: -1
+nonTrans/logoEffect_0045
+  rotate: false
+  xy: 959, 1402
+  size: 463, 463
+  orig: 864, 486
+  offset: 190, 23
+  index: -1
+nonTrans/logoEffect_0004
+  rotate: false
+  xy: 486, 3
+  size: 477, 466
+  orig: 864, 486
+  offset: 182, 20
+  index: -1
+nonTrans/logoEffect_0006
+  rotate: false
+  xy: 2, 472
+  size: 468, 464
+  orig: 864, 486
+  offset: 184, 22
+  index: -1
+nonTrans/logoEffect_0007
+  rotate: false
+  xy: 1424, 1402
+  size: 469, 463
+  orig: 864, 486
+  offset: 185, 23
+  index: -1
+nonTrans/logoEffect_0008
+  rotate: false
+  xy: 2, 938
+  size: 467, 463
+  orig: 864, 486
+  offset: 185, 23
+  index: -1
+nonTrans/logoEffect_0009
+  rotate: false
+  xy: 472, 472
+  size: 469, 464
+  orig: 864, 486
+  offset: 184, 22
+  index: -1
+nonTrans/logoEffect_0010
+  rotate: false
+  xy: 965, 2
+  size: 474, 466
+  orig: 864, 486
+  offset: 182, 20
+  index: -1
+nonTrans/logoEffect_0011
+  rotate: false
+  xy: 1441, 2
+  size: 484, 466
+  orig: 864, 486
+  offset: 181, 20
+  index: -1
+nonTrans/logoEffect_0019
+  rotate: false
+  xy: 943, 471
+  size: 476, 464
+  orig: 864, 486
+  offset: 180, 22
+  index: -1
+nonTrans/logoEffect_0020
+  rotate: false
+  xy: 471, 938
+  size: 476, 463
+  orig: 864, 486
+  offset: 180, 23
+  index: -1
+nonTrans/logoEffect_0048
+  rotate: true
+  xy: 949, 937
+  size: 463, 467
+  orig: 864, 486
+  offset: 190, 19
+  index: -1
+nonTrans/logoEffect_0060
+  rotate: false
+  xy: 1421, 470
+  size: 473, 465
+  orig: 864, 486
+  offset: 184, 21
+  index: -1
+nonTrans/logoEffect_0068
+  rotate: false
+  xy: 2, 1403
+  size: 475, 462
+  orig: 864, 486
+  offset: 181, 24
+  index: -1
+nonTrans/logoEffect_0072
+  rotate: false
+  xy: 2, 5
+  size: 482, 465
+  orig: 864, 486
+  offset: 177, 21
+  index: -1
+nonTrans/logoEffect_0085
+  rotate: false
+  xy: 1418, 937
+  size: 487, 463
+  orig: 864, 486
+  offset: 178, 23
+  index: -1
+nonTrans/logoEffect_0088
+  rotate: false
+  xy: 479, 1403
+  size: 478, 462
+  orig: 864, 486
+  offset: 181, 24
+  index: -1
+
+logoAnim5.jpg
+size: 1969,1879
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/logoEffect_0003
+  rotate: false
+  xy: 496, 942
+  size: 477, 467
+  orig: 864, 486
+  offset: 182, 19
+  index: -1
+nonTrans/logoEffect_0013
+  rotate: false
+  xy: 975, 942
+  size: 477, 467
+  orig: 864, 486
+  offset: 181, 19
+  index: -1
+nonTrans/logoEffect_0014
+  rotate: false
+  xy: 1454, 942
+  size: 475, 467
+  orig: 864, 486
+  offset: 181, 19
+  index: -1
+nonTrans/logoEffect_0015
+  rotate: false
+  xy: 991, 472
+  size: 476, 468
+  orig: 864, 486
+  offset: 181, 18
+  index: -1
+nonTrans/logoEffect_0016
+  rotate: false
+  xy: 1469, 472
+  size: 474, 468
+  orig: 864, 486
+  offset: 181, 18
+  index: -1
+nonTrans/logoEffect_0017
+  rotate: false
+  xy: 2, 4
+  size: 474, 468
+  orig: 864, 486
+  offset: 181, 18
+  index: -1
+nonTrans/logoEffect_0057
+  rotate: true
+  xy: 2, 1411
+  size: 466, 471
+  orig: 864, 486
+  offset: 188, 15
+  index: -1
+nonTrans/logoEffect_0065
+  rotate: false
+  xy: 475, 1411
+  size: 474, 466
+  orig: 864, 486
+  offset: 184, 20
+  index: -1
+nonTrans/logoEffect_0070
+  rotate: false
+  xy: 951, 1411
+  size: 477, 466
+  orig: 864, 486
+  offset: 182, 20
+  index: -1
+nonTrans/logoEffect_0071
+  rotate: false
+  xy: 1430, 1411
+  size: 479, 466
+  orig: 864, 486
+  offset: 179, 20
+  index: -1
+nonTrans/logoEffect_0073
+  rotate: false
+  xy: 2, 474
+  size: 490, 467
+  orig: 864, 486
+  offset: 175, 19
+  index: -1
+nonTrans/logoEffect_0074
+  rotate: false
+  xy: 2, 943
+  size: 492, 466
+  orig: 864, 486
+  offset: 174, 20
+  index: -1
+nonTrans/logoEffect_0075
+  rotate: false
+  xy: 494, 473
+  size: 495, 467
+  orig: 864, 486
+  offset: 173, 19
+  index: -1
+nonTrans/logoEffect_0077
+  rotate: false
+  xy: 478, 3
+  size: 497, 468
+  orig: 864, 486
+  offset: 172, 18
+  index: -1
+nonTrans/logoEffect_0078
+  rotate: false
+  xy: 977, 2
+  size: 498, 468
+  orig: 864, 486
+  offset: 172, 18
+  index: -1
+nonTrans/logoEffect_0082
+  rotate: false
+  xy: 1477, 2
+  size: 490, 468
+  orig: 864, 486
+  offset: 178, 18
+  index: -1
+
+logoAnim6.jpg
+size: 1473,1417
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/logoEffect_0012
+  rotate: false
+  xy: 990, 944
+  size: 481, 471
+  orig: 864, 486
+  offset: 179, 15
+  index: -1
+nonTrans/logoEffect_0018
+  rotate: false
+  xy: 489, 2
+  size: 476, 469
+  orig: 864, 486
+  offset: 180, 17
+  index: -1
+nonTrans/logoEffect_0069
+  rotate: false
+  xy: 967, 2
+  size: 471, 469
+  orig: 864, 486
+  offset: 185, 17
+  index: -1
+nonTrans/logoEffect_0076
+  rotate: false
+  xy: 2, 473
+  size: 496, 470
+  orig: 864, 486
+  offset: 172, 16
+  index: -1
+nonTrans/logoEffect_0079
+  rotate: false
+  xy: 2, 945
+  size: 499, 470
+  orig: 864, 486
+  offset: 172, 16
+  index: -1
+nonTrans/logoEffect_0080
+  rotate: false
+  xy: 503, 945
+  size: 485, 470
+  orig: 864, 486
+  offset: 179, 16
+  index: -1
+nonTrans/logoEffect_0081
+  rotate: false
+  xy: 2, 2
+  size: 485, 469
+  orig: 864, 486
+  offset: 179, 17
+  index: -1
+nonTrans/logoEffect_0083
+  rotate: false
+  xy: 980, 474
+  size: 481, 468
+  orig: 864, 486
+  offset: 179, 18
+  index: -1
+nonTrans/logoEffect_0087
+  rotate: false
+  xy: 500, 473
+  size: 478, 470
+  orig: 864, 486
+  offset: 181, 16
+  index: -1

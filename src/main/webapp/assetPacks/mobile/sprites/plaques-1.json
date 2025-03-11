@@ -1,0 +1,93 @@
+{"frames": {
+
+"landscape_tutorialBackground":
+{
+	"frame": {"x":3,"y":471,"w":1438,"h":666},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":10,"w":1438,"h":666},
+	"sourceSize": {"w":1454,"h":687},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Lose_plaque_Portrait":
+{
+	"frame": {"x":3,"y":3,"w":812,"h":464},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":812,"h":464},
+	"sourceSize": {"w":812,"h":464},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_endOfGameMessageNoWinBackground":
+{
+	"frame": {"x":3,"y":3,"w":812,"h":464},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":812,"h":464},
+	"sourceSize": {"w":812,"h":464},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_EndOfGameMessageOverlay":
+{
+	"frame": {"x":3,"y":1141,"w":810,"h":1440},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1440},
+	"sourceSize": {"w":810,"h":1440},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_endOfGameMessageWinBackground":
+{
+	"frame": {"x":3,"y":3,"w":812,"h":464},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":812,"h":464},
+	"sourceSize": {"w":812,"h":464},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_timeOutMessageBackground":
+{
+	"frame": {"x":3,"y":3,"w":812,"h":464},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":812,"h":464},
+	"sourceSize": {"w":812,"h":464},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_timeOutMessageOverlay":
+{
+	"frame": {"x":3,"y":1141,"w":810,"h":1440},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1440},
+	"sourceSize": {"w":810,"h":1440},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Timeout_plaque_Portrait":
+{
+	"frame": {"x":3,"y":3,"w":812,"h":464},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":812,"h":464},
+	"sourceSize": {"w":812,"h":464},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"timeoutBackground":
+{
+	"frame": {"x":3,"y":3,"w":812,"h":464},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":812,"h":464},
+	"sourceSize": {"w":812,"h":464},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1446,"h":1954},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:112222ea018a70ed81ad64cbb4aa49d8:e531625b8be9c41cc16e5a2ea50ad542:1a30e7b1bf950d59eed1501e06c5a5cd$"
+}
+}

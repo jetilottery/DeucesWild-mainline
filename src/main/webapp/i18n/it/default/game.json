@@ -1,0 +1,110 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "Dal {@minRTP}% al {@maxRTP}%",
+        "paybackTitle": "Ritorno previsto",
+        "paybackBody": "Per questo gioco, il ritorno teorico previsto sul lungo termine è pari a {RTP}.",
+        "subheading": "Prezzo del biglietto: {ticketCost}",
+        "prizeLevel": "Livello del premio",
+        "description": "Descrizione",
+        "prizeValue": "Valore del premio",
+        "descriptionText1": "Vincita abbinamento\n\nJolly 2",
+        "descriptionText2": "Vincita Bonus",
+        "overallChances": "Vi è 1 possibilità su {odds} di vincere un premio in ogni partita.",
+        "prizeDivision": "Divisione dei premi",
+        "prizeRemaining": "Premi approssimativi rimanenti",
+        "oddsPerPlay": "Probabilità per partita"
+    },
+    "title": "MODELLO",
+    "MenuCommand":
+    {
+        "price": "Prezzo",
+        "stake": "Puntata",
+        "howToPlay": "Aiuto",
+        "paytable": "Tabella dei pagamenti",
+        "close": "Chiudi",
+        "audio":
+        {
+            "sound": "Audio",
+            "on": "On",
+            "off": "Off"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Errore: ",
+        "genericErrorText": "Si è verificato un errore interno. ESCI e riavvia il gioco."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "PREZZO DEL BIGLIETTO",
+        "ticketSelect_ticketCost": "PREZZO DEL BIGLIETTO",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "PROVA "
+        },
+        "footer_win":
+        {
+            "BUY": "VINCI",
+            "TRY": "VINCITA DEMO"
+        },
+
+        "button_buy":
+        {
+            "BUY": "ACQUISTA",
+            "TRY": "PROVA"
+        },
+        "button_try": "PROVA",
+        "button_retry": "RIPROVA",
+        "button_continue": "CONTINUA",
+        "button_moveToMoney": "GIOCA CON DENARO REALE",
+        "button_autoPlay": "MOSTRA TUTTI",
+        "button_stop": "STOP",
+        "button_playAgain":
+        {
+            "BUY": "GIOCA ANCORA",
+            "TRY": "RIPROVA"
+        },
+        "button_tryAgain": "RIPROVA",
+        "button_ok": "OK",
+        "button_exit": "ESCI",
+
+        "error_button_exit": "ESCI",
+        "error_title": "ERRORE",
+
+        "message_nonWin": "SARAI PIÙ FORTUNATO\nLA PROSSIMA VOLTA",
+        "message_win":
+        {
+            "BUY": "VINCITA TOTALE",
+            "TRY": "VINCITA DEMO TOTALE"
+        },
+
+        "howToPlay": "COME GIOCARE",
+        "page1_line1": "[2]Rivela un simbolo Singolo Jolly 2 per vincere il premio corrispondente.",
+        "page1_line2": "[22]Rivela un simbolo Doppio Jolly 2 per raddoppiare il premio corrispondente.",
+        "page1_line3": "[222]Rivela un simbolo Triplo Jolly 2 per triplicare il premio corrispondente.",
+        "page1_line4": "[JOKER]Rivela 3 o più simboli Cappello del Giullare per avviare il gioco bonus.",
+
+        "page2_line1": "[WHEEL]Gira la ruota per avviare il gioco bonus.",
+        "page2_line2": "[WHEELPRIZE]Vinci un premio quando l'indicatore si ferma su un valore del premio.",
+        "page2_line3": "[WHEELARROW]Avanza fino alla ruota successiva quando l'indicatore si ferma su un simbolo Freccia.",
+        "page2_line4": "[WHEELX]Se si ferma su una X nera, viene rimosso un Cappello del Giullare. Il bonus termina quando non rimane alcun Cappello del Giullare.",
+
+
+        "winUpTo": "VINCI FINO A",
+        "bonus": "BONUS",
+        "bonusNoWin": "NESSUNA VINCITA BONUS",
+        "bonusWin": "VINCITA BONUS",
+        "totalWin": "VINCITA TOTALE",
+        "infoBarText": "TROVA I JOLLY 2 PER VINCERE!",
+        "bonusInfo": "3 o più sbloccano il Bonus",
+        "bonusInfo2": "Zero Cappelli del Giullare = Fine del Bonus",
+
+        "bonusSpinButton": "pulsanteGiraBonus",
+        "respin": "Respin"
+    }
+}

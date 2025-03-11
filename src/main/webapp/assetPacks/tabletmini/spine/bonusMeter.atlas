@@ -1,0 +1,452 @@
+
+bonusMeter.jpg
+size: 1912,1989
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/bonusMeterBG (0-00-00-00)
+  rotate: false
+  xy: 2, 1862
+  size: 356, 125
+  orig: 960, 480
+  offset: 302, 178
+  index: -1
+nonTrans/bonusMeterSparks_0000
+  rotate: false
+  xy: 1523, 411
+  size: 379, 202
+  orig: 960, 480
+  offset: 283, 144
+  index: -1
+nonTrans/bonusMeterSparks_0030
+  rotate: false
+  xy: 1523, 411
+  size: 379, 202
+  orig: 960, 480
+  offset: 283, 144
+  index: -1
+nonTrans/bonusMeterSparks_0001
+  rotate: false
+  xy: 2, 215
+  size: 380, 202
+  orig: 960, 480
+  offset: 283, 144
+  index: -1
+nonTrans/bonusMeterSparks_0002
+  rotate: false
+  xy: 1142, 817
+  size: 380, 199
+  orig: 960, 480
+  offset: 284, 146
+  index: -1
+nonTrans/bonusMeterSparks_0003
+  rotate: false
+  xy: 2, 825
+  size: 379, 197
+  orig: 960, 480
+  offset: 285, 146
+  index: -1
+nonTrans/bonusMeterSparks_0004
+  rotate: false
+  xy: 1133, 1217
+  size: 381, 194
+  orig: 960, 480
+  offset: 284, 147
+  index: -1
+nonTrans/bonusMeterSparks_0005
+  rotate: false
+  xy: 376, 1414
+  size: 381, 192
+  orig: 960, 480
+  offset: 285, 149
+  index: -1
+nonTrans/bonusMeterSparks_0006
+  rotate: false
+  xy: 759, 1413
+  size: 378, 192
+  orig: 960, 480
+  offset: 288, 148
+  index: -1
+nonTrans/bonusMeterSparks_0007
+  rotate: false
+  xy: 1522, 1606
+  size: 379, 191
+  orig: 960, 480
+  offset: 288, 148
+  index: -1
+nonTrans/bonusMeterSparks_0008
+  rotate: false
+  xy: 1139, 1413
+  size: 379, 192
+  orig: 960, 480
+  offset: 290, 147
+  index: -1
+nonTrans/bonusMeterSparks_0009
+  rotate: false
+  xy: 1520, 1412
+  size: 378, 192
+  orig: 960, 480
+  offset: 292, 146
+  index: -1
+nonTrans/bonusMeterSparks_0010
+  rotate: false
+  xy: 1516, 1216
+  size: 378, 194
+  orig: 960, 480
+  offset: 292, 145
+  index: -1
+nonTrans/bonusMeterSparks_0011
+  rotate: false
+  xy: 760, 819
+  size: 380, 197
+  orig: 960, 480
+  offset: 292, 144
+  index: -1
+nonTrans/bonusMeterSparks_0012
+  rotate: false
+  xy: 1524, 817
+  size: 381, 199
+  orig: 960, 480
+  offset: 292, 143
+  index: -1
+nonTrans/bonusMeterSparks_0013
+  rotate: false
+  xy: 1131, 615
+  size: 379, 200
+  orig: 960, 480
+  offset: 294, 142
+  index: -1
+nonTrans/bonusMeterSparks_0024
+  rotate: false
+  xy: 1146, 2
+  size: 383, 203
+  orig: 960, 480
+  offset: 285, 145
+  index: -1
+nonTrans/bonusMeterSparks_0025
+  rotate: false
+  xy: 763, 208
+  size: 381, 202
+  orig: 960, 480
+  offset: 285, 146
+  index: -1
+nonTrans/bonusMeterSparks_0026
+  rotate: false
+  xy: 1146, 207
+  size: 380, 202
+  orig: 960, 480
+  offset: 284, 146
+  index: -1
+nonTrans/bonusMeterSparks_0027
+  rotate: false
+  xy: 1528, 207
+  size: 379, 202
+  orig: 960, 480
+  offset: 283, 145
+  index: -1
+nonTrans/bonusMeterSparks_0028
+  rotate: false
+  xy: 1531, 2
+  size: 379, 203
+  orig: 960, 480
+  offset: 283, 144
+  index: -1
+nonTrans/bonusMeterSparks_0029
+  rotate: false
+  xy: 2, 11
+  size: 379, 202
+  orig: 960, 480
+  offset: 283, 144
+  index: -1
+nonTrans/bonusMeterSparks_0031
+  rotate: false
+  xy: 383, 4
+  size: 380, 202
+  orig: 960, 480
+  offset: 283, 144
+  index: -1
+nonTrans/bonusMeterSparks_0032
+  rotate: false
+  xy: 764, 412
+  size: 380, 201
+  orig: 960, 480
+  offset: 284, 144
+  index: -1
+nonTrans/bonusMeterSparks_0033
+  rotate: false
+  xy: 1512, 615
+  size: 381, 200
+  orig: 960, 480
+  offset: 284, 145
+  index: -1
+nonTrans/bonusMeterSparks_0034
+  rotate: false
+  xy: 2, 419
+  size: 382, 200
+  orig: 960, 480
+  offset: 284, 145
+  index: -1
+nonTrans/bonusMeterSparks_0035
+  rotate: false
+  xy: 1139, 1018
+  size: 381, 196
+  orig: 960, 480
+  offset: 285, 146
+  index: -1
+nonTrans/bonusMeterSparks_0036
+  rotate: false
+  xy: 2, 1024
+  size: 381, 194
+  orig: 960, 480
+  offset: 286, 146
+  index: -1
+nonTrans/bonusMeterSparks_0037
+  rotate: false
+  xy: 761, 1607
+  size: 382, 190
+  orig: 960, 480
+  offset: 286, 147
+  index: -1
+nonTrans/bonusMeterSparks_0038
+  rotate: false
+  xy: 378, 1608
+  size: 381, 189
+  orig: 960, 480
+  offset: 287, 148
+  index: -1
+nonTrans/bonusMeterSparks_0039
+  rotate: false
+  xy: 739, 1799
+  size: 381, 188
+  orig: 960, 480
+  offset: 288, 150
+  index: -1
+nonTrans/bonusMeterSparks_0040
+  rotate: false
+  xy: 1122, 1799
+  size: 379, 188
+  orig: 960, 480
+  offset: 291, 150
+  index: -1
+nonTrans/bonusMeterSparks_0041
+  rotate: false
+  xy: 360, 1800
+  size: 377, 187
+  orig: 960, 480
+  offset: 293, 151
+  index: -1
+nonTrans/bonusMeterSparks_0042
+  rotate: false
+  xy: 1503, 1799
+  size: 376, 188
+  orig: 960, 480
+  offset: 295, 150
+  index: -1
+nonTrans/bonusMeterSparks_0043
+  rotate: false
+  xy: 2, 1610
+  size: 374, 188
+  orig: 960, 480
+  offset: 298, 150
+  index: -1
+nonTrans/bonusMeterSparks_0044
+  rotate: false
+  xy: 1145, 1607
+  size: 375, 190
+  orig: 960, 480
+  offset: 298, 149
+  index: -1
+nonTrans/bonusMeterSparks_0045
+  rotate: false
+  xy: 2, 1220
+  size: 376, 192
+  orig: 960, 480
+  offset: 298, 148
+  index: -1
+nonTrans/bonusMeterSparks_0046
+  rotate: false
+  xy: 755, 1218
+  size: 376, 193
+  orig: 960, 480
+  offset: 298, 148
+  index: -1
+nonTrans/bonusMeterSparks_0047
+  rotate: false
+  xy: 2, 1417
+  size: 372, 191
+  orig: 960, 480
+  offset: 301, 148
+  index: -1
+nonTrans/bonusMeterSparks_0048
+  rotate: false
+  xy: 380, 1220
+  size: 373, 192
+  orig: 960, 480
+  offset: 301, 148
+  index: -1
+nonTrans/bonusMeterSparks_0049
+  rotate: false
+  xy: 385, 1022
+  size: 375, 194
+  orig: 960, 480
+  offset: 299, 147
+  index: -1
+nonTrans/bonusMeterSparks_0050
+  rotate: false
+  xy: 762, 1020
+  size: 375, 195
+  orig: 960, 480
+  offset: 296, 146
+  index: -1
+nonTrans/bonusMeterSparks_0051
+  rotate: false
+  xy: 1522, 1018
+  size: 378, 196
+  orig: 960, 480
+  offset: 293, 147
+  index: -1
+nonTrans/bonusMeterSparks_0052
+  rotate: false
+  xy: 383, 822
+  size: 375, 198
+  orig: 960, 480
+  offset: 292, 146
+  index: -1
+nonTrans/bonusMeterSparks_0053
+  rotate: false
+  xy: 2, 624
+  size: 374, 199
+  orig: 960, 480
+  offset: 290, 145
+  index: -1
+nonTrans/bonusMeterSparks_0054
+  rotate: false
+  xy: 378, 621
+  size: 374, 199
+  orig: 960, 480
+  offset: 288, 146
+  index: -1
+nonTrans/bonusMeterSparks_0055
+  rotate: false
+  xy: 754, 618
+  size: 375, 199
+  orig: 960, 480
+  offset: 288, 146
+  index: -1
+nonTrans/bonusMeterSparks_0056
+  rotate: false
+  xy: 386, 416
+  size: 376, 200
+  orig: 960, 480
+  offset: 286, 146
+  index: -1
+nonTrans/bonusMeterSparks_0057
+  rotate: false
+  xy: 1146, 412
+  size: 375, 201
+  orig: 960, 480
+  offset: 286, 145
+  index: -1
+nonTrans/bonusMeterSparks_0058
+  rotate: false
+  xy: 384, 212
+  size: 377, 202
+  orig: 960, 480
+  offset: 285, 144
+  index: -1
+nonTrans/bonusMeterSparks_0059
+  rotate: false
+  xy: 765, 4
+  size: 379, 202
+  orig: 960, 480
+  offset: 283, 144
+  index: -1
+
+bonusMeter2.jpg
+size: 775,1053
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/bonusMeterSparks_0014
+  rotate: false
+  xy: 389, 7
+  size: 382, 205
+  orig: 960, 480
+  offset: 292, 140
+  index: -1
+nonTrans/bonusMeterSparks_0015
+  rotate: false
+  xy: 2, 2
+  size: 383, 207
+  orig: 960, 480
+  offset: 291, 139
+  index: -1
+nonTrans/bonusMeterSparks_0016
+  rotate: false
+  xy: 389, 422
+  size: 384, 207
+  orig: 960, 480
+  offset: 290, 139
+  index: -1
+nonTrans/bonusMeterSparks_0017
+  rotate: false
+  xy: 389, 631
+  size: 384, 208
+  orig: 960, 480
+  offset: 290, 139
+  index: -1
+nonTrans/bonusMeterSparks_0018
+  rotate: false
+  xy: 2, 842
+  size: 385, 209
+  orig: 960, 480
+  offset: 289, 139
+  index: -1
+nonTrans/bonusMeterSparks_0019
+  rotate: false
+  xy: 2, 631
+  size: 385, 209
+  orig: 960, 480
+  offset: 288, 139
+  index: -1
+nonTrans/bonusMeterSparks_0020
+  rotate: false
+  xy: 389, 841
+  size: 384, 210
+  orig: 960, 480
+  offset: 288, 139
+  index: -1
+nonTrans/bonusMeterSparks_0021
+  rotate: false
+  xy: 2, 420
+  size: 385, 209
+  orig: 960, 480
+  offset: 287, 140
+  index: -1
+nonTrans/bonusMeterSparks_0022
+  rotate: false
+  xy: 2, 211
+  size: 385, 207
+  orig: 960, 480
+  offset: 286, 143
+  index: -1
+nonTrans/bonusMeterSparks_0023
+  rotate: false
+  xy: 389, 214
+  size: 383, 206
+  orig: 960, 480
+  offset: 286, 143
+  index: -1
+
+bonusMeter.png
+size: 364,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/bonusMeter_BG
+  rotate: false
+  xy: 2, 2
+  size: 360, 120
+  orig: 1200, 600
+  offset: 420, 240
+  index: -1

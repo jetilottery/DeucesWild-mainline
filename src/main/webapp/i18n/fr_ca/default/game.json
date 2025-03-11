@@ -1,0 +1,100 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "{@minRTP} % à {@maxRTP} %",
+    "paybackTitle": "Taux de retour théorique",
+    "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme est de {RTP}.",
+    "subheading": "Coût du billet : {ticketCost}",
+    "prizeLevel": "Niveau du lot",
+    "description": "Description",
+    "prizeValue": "Valeur du lot",
+    "descriptionText1": "Obtenez des symboles frimés 2 pour gagner",
+    "descriptionText2": "Lot boni",
+    "overallChances": "Globalement, vous avez 1 chance sur {odds} de gagner un lot à chaque partie.",
+    "prizeDivision": "Répartition des lots",
+    "prizeRemaining": "Nombre approximatif de lots restants",
+    "oddsPerPlay": "Chances par partie"
+  },
+  "title": "MODÈLE",
+  "MenuCommand": {
+    "price": "Coût",
+    "stake": "Mise",
+    "howToPlay": "Aide",
+    "paytable": "Table de paiement",
+    "close": "Fermer",
+    "audio": {
+      "sound": "Son",
+      "on": "Activé",
+      "off": "Désactivé"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Erreur : ",
+    "genericErrorText": "Une erreur interne est survenue. QUITTEZ le jeu et relancez-le."
+  },
+  "Game": {
+    "footer_balance": "SOLDE",
+    "footer_ticketCost": "COÛT DU BILLET",
+    "ticketSelect_ticketCost": "COÛT DU BILLET",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "ESSAYER "
+    },
+    "footer_win": {
+      "BUY": "GAIN",
+      "TRY": "GAIN FICTIF"
+    },
+
+    "button_buy": {
+      "BUY": "ACHETER",
+      "TRY": "ESSAYER"
+    },
+    "button_try": "ESSAYER",
+    "button_retry": "ESSAYER DE NOUVEAU",
+    "button_continue": "CONTINUER",
+    "button_moveToMoney": "MODE ARGENT RÉEL",
+    "button_autoPlay": "TOUT AFFICHER",
+    "button_stop": "ARRÊTER",
+    "button_playAgain": {
+      "BUY": "JOUER DE NOUVEAU",
+      "TRY": "ESSAYER DE NOUVEAU"
+    },
+    "button_tryAgain": "ESSAYER DE NOUVEAU",
+    "button_ok": "OK",
+    "button_exit": "QUITTER",
+
+    "error_button_exit": "QUITTER",
+    "error_title": "ERREUR",
+
+    "message_nonWin": "MEILLEURE CHANCE\nLA PROCHAINE FOIS",
+    "message_win": {
+      "BUY": "GAIN TOTAL",
+      "TRY": "GAIN FICTIF TOTAL"
+    },
+
+    "howToPlay": "COMMENT JOUER",
+    "page1_line1": "[2]Découvrez un symbole frimé 2 pour gagner un lot.",
+    "page1_line2": "[22]Découvrez un symbole frimé Double 2 pour doubler votre gain.",
+    "page1_line3": "[222]Découvrez un symbole frimé Triple 2 pour tripler votre gain.",
+    "page1_line4": "[JOKER]Découvrez trois symboles Chapeau de Joker ou plus pour commencer le jeu boni.",
+
+    "page2_line1": "[WHEEL]Lancez la roue pour commencer le jeu boni.",
+    "page2_line2": "[WHEELPRIZE]Gagnez un lot lorsque le pointeur de la roue indique un lot.",
+    "page2_line3": "[WHEELARROW]Passez à la roue suivante lorsque le pointeur de la roue indique un symbole Flèche.",
+    "page2_line4": "[WHEELX]Un symbole Chapeau de Joker est retiré lorsque le pointeur indique un X noir. Le jeu boni prend fin lorsqu’il ne reste aucun symbole Chapeau de Joker.",
+
+
+    "winUpTo": "GAGNEZ JUSQU’À",
+    "bonus": "JEU BONI",
+    "bonusNoWin": "AUCUN GAIN BONI",
+    "bonusWin": "GAIN BONI",
+    "totalWin": "GAIN TOTAL",
+    "infoBarText": "DÉCOUVREZ DES SYMBOLES FRIMÉS 2 POUR GAGNER!",
+    "bonusInfo": "Trois symboles ou plus\ndéclenchent le jeu boni",
+    "bonusInfo2": "Zéro symbole Chapeau de Joker\n= le jeu boni prend fin",
+
+    "bonusSpinButton": "BoutonPartieBoni",
+    "respin": "Relance"
+  }
+}

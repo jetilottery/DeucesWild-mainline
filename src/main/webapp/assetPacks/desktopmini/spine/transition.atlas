@@ -1,0 +1,312 @@
+
+transition.jpg
+size: 1968,1979
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/fallingParticles_0014
+  rotate: false
+  xy: 987, 175
+  size: 329, 648
+  orig: 1152, 648
+  offset: 306, 0
+  index: -1
+nonTrans/fallingParticles_0017
+  rotate: true
+  xy: 1318, 167
+  size: 325, 648
+  orig: 1152, 648
+  offset: 307, 0
+  index: -1
+nonTrans/fallingParticles_0019
+  rotate: true
+  xy: 2, 2
+  size: 326, 648
+  orig: 1152, 648
+  offset: 305, 0
+  index: -1
+nonTrans/fallingParticles_0020
+  rotate: true
+  xy: 2, 660
+  size: 330, 648
+  orig: 1152, 648
+  offset: 301, 0
+  index: -1
+nonTrans/fallingParticles_0021
+  rotate: false
+  xy: 652, 679
+  size: 333, 648
+  orig: 1152, 648
+  offset: 298, 0
+  index: -1
+nonTrans/fallingParticles_0022
+  rotate: true
+  xy: 2, 992
+  size: 335, 648
+  orig: 1152, 648
+  offset: 295, 0
+  index: -1
+nonTrans/fallingParticles_0023
+  rotate: true
+  xy: 2, 330
+  size: 328, 648
+  orig: 1152, 648
+  offset: 302, 0
+  index: -1
+nonTrans/fallingParticles_0024
+  rotate: false
+  xy: 652, 29
+  size: 329, 648
+  orig: 1152, 648
+  offset: 301, 0
+  index: -1
+nonTrans/fallingParticles_0025
+  rotate: true
+  xy: 1318, 494
+  size: 329, 642
+  orig: 1152, 648
+  offset: 300, 0
+  index: -1
+nonTrans/fill
+  rotate: false
+  xy: 2, 1329
+  size: 1152, 648
+  orig: 1152, 648
+  offset: 0, 0
+  index: -1
+nonTrans/fillPort
+  rotate: false
+  xy: 1156, 825
+  size: 648, 1152
+  orig: 648, 1152
+  offset: 0, 0
+  index: -1
+
+transition2.jpg
+size: 2039,1920
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/fallingParticles_0006
+  rotate: false
+  xy: 337, 47
+  size: 312, 298
+  orig: 1152, 648
+  offset: 317, 350
+  index: -1
+nonTrans/fallingParticles_0007
+  rotate: false
+  xy: 1547, 59
+  size: 313, 298
+  orig: 1152, 648
+  offset: 318, 350
+  index: -1
+nonTrans/fallingParticles_0009
+  rotate: true
+  xy: 1247, 125
+  size: 321, 298
+  orig: 1152, 648
+  offset: 314, 350
+  index: -1
+nonTrans/fallingParticles_0010
+  rotate: false
+  xy: 1547, 359
+  size: 320, 297
+  orig: 1152, 648
+  offset: 314, 351
+  index: -1
+nonTrans/fallingParticles_0011
+  rotate: false
+  xy: 1655, 971
+  size: 336, 402
+  orig: 1152, 648
+  offset: 298, 246
+  index: -1
+nonTrans/fallingParticles_0012
+  rotate: false
+  xy: 1000, 820
+  size: 340, 508
+  orig: 1152, 648
+  offset: 301, 140
+  index: -1
+nonTrans/fallingParticles_0013
+  rotate: false
+  xy: 654, 1304
+  size: 334, 614
+  orig: 1152, 648
+  offset: 304, 34
+  index: -1
+nonTrans/fallingParticles_0015
+  rotate: false
+  xy: 2, 1270
+  size: 324, 648
+  orig: 1152, 648
+  offset: 308, 0
+  index: -1
+nonTrans/fallingParticles_0016
+  rotate: false
+  xy: 2, 620
+  size: 324, 648
+  orig: 1152, 648
+  offset: 308, 0
+  index: -1
+nonTrans/fallingParticles_0018
+  rotate: false
+  xy: 328, 1270
+  size: 324, 648
+  orig: 1152, 648
+  offset: 307, 0
+  index: -1
+nonTrans/fallingParticles_0026
+  rotate: false
+  xy: 990, 1330
+  size: 330, 588
+  orig: 1152, 648
+  offset: 299, 0
+  index: -1
+nonTrans/fallingParticles_0027
+  rotate: false
+  xy: 1322, 1365
+  size: 331, 553
+  orig: 1152, 648
+  offset: 298, 0
+  index: -1
+nonTrans/fallingParticles_0028
+  rotate: false
+  xy: 1655, 1375
+  size: 332, 543
+  orig: 1152, 648
+  offset: 297, 0
+  index: -1
+nonTrans/fallingParticles_0029
+  rotate: false
+  xy: 2, 85
+  size: 333, 533
+  orig: 1152, 648
+  offset: 295, 0
+  index: -1
+nonTrans/fallingParticles_0030
+  rotate: false
+  xy: 328, 746
+  size: 334, 522
+  orig: 1152, 648
+  offset: 294, 0
+  index: -1
+nonTrans/fallingParticles_0031
+  rotate: false
+  xy: 664, 791
+  size: 334, 511
+  orig: 1152, 648
+  offset: 293, 0
+  index: -1
+nonTrans/fallingParticles_0032
+  rotate: false
+  xy: 1342, 863
+  size: 311, 500
+  orig: 1152, 648
+  offset: 316, 0
+  index: -1
+nonTrans/fallingParticles_0033
+  rotate: false
+  xy: 337, 347
+  size: 311, 397
+  orig: 1152, 648
+  offset: 315, 0
+  index: -1
+nonTrans/fallingParticles_0034
+  rotate: true
+  xy: 1655, 658
+  size: 311, 382
+  orig: 1152, 648
+  offset: 315, 0
+  index: -1
+nonTrans/fallingParticles_0035
+  rotate: false
+  xy: 650, 374
+  size: 300, 370
+  orig: 1152, 648
+  offset: 326, 0
+  index: -1
+nonTrans/fallingParticles_0036
+  rotate: false
+  xy: 651, 2
+  size: 300, 370
+  orig: 1152, 648
+  offset: 326, 0
+  index: -1
+nonTrans/fallingParticles_0037
+  rotate: false
+  xy: 952, 419
+  size: 287, 370
+  orig: 1152, 648
+  offset: 326, 0
+  index: -1
+nonTrans/fallingParticles_0038
+  rotate: false
+  xy: 953, 47
+  size: 292, 370
+  orig: 1152, 648
+  offset: 326, 0
+  index: -1
+nonTrans/fallingParticles_0039
+  rotate: false
+  xy: 1241, 448
+  size: 293, 370
+  orig: 1152, 648
+  offset: 325, 0
+  index: -1
+
+transition3.jpg
+size: 1207,609
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/fallingParticles_0000
+  rotate: false
+  xy: 2, 308
+  size: 301, 299
+  orig: 1152, 648
+  offset: 318, 349
+  index: -1
+nonTrans/fallingParticles_0001
+  rotate: false
+  xy: 305, 308
+  size: 300, 299
+  orig: 1152, 648
+  offset: 318, 349
+  index: -1
+nonTrans/fallingParticles_0002
+  rotate: true
+  xy: 907, 307
+  size: 300, 298
+  orig: 1152, 648
+  offset: 318, 350
+  index: -1
+nonTrans/fallingParticles_0003
+  rotate: true
+  xy: 907, 6
+  size: 299, 298
+  orig: 1152, 648
+  offset: 319, 350
+  index: -1
+nonTrans/fallingParticles_0004
+  rotate: true
+  xy: 607, 301
+  size: 306, 298
+  orig: 1152, 648
+  offset: 326, 350
+  index: -1
+nonTrans/fallingParticles_0005
+  rotate: false
+  xy: 2, 8
+  size: 305, 298
+  orig: 1152, 648
+  offset: 326, 350
+  index: -1
+nonTrans/fallingParticles_0008
+  rotate: false
+  xy: 309, 2
+  size: 312, 297
+  orig: 1152, 648
+  offset: 318, 351
+  index: -1

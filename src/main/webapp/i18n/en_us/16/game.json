@@ -1,0 +1,100 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "description": "Description",
+    "prizeValue": "Prize Value",
+    "descriptionText1": "Match Wild 2 Win",
+    "descriptionText2": "Bonus Win",
+    "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+    "prizeDivision": "Prize Division",
+    "prizeRemaining": "Approximate Prizes Remaining",
+    "oddsPerPlay": "Odds Per Play"
+  },
+  "title": "TEMPLATE",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "TICKET COST",
+    "ticketSelect_ticketCost": "TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "WINS",
+      "TRY": "DEMO WINS"
+    },
+
+    "button_buy": {
+      "BUY": "BUY",
+      "TRY": "TRY"
+    },
+    "button_try": "TRY",
+    "button_retry": "RETRY",
+    "button_continue": "CONTINUE",
+    "button_moveToMoney": "PLAY WITH MONEY",
+    "button_autoPlay": "REVEAL ALL",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "PLAY AGAIN",
+      "TRY": "TRY AGAIN"
+    },
+    "button_tryAgain": "TRY AGAIN",
+    "button_ok": "OK",
+    "button_exit": "EXIT",
+
+    "error_button_exit": "EXIT",
+    "error_title": "ERROR",
+
+    "message_nonWin": "BETTER LUCK\nNEXT TIME",
+    "message_win": {
+      "BUY": "CONGRATULATIONS!\nYOU HAVE WON",
+      "TRY": "THANKS FOR PLAYING!\nYOU COULD HAVE WON"
+    },
+
+    "howToPlay": "HOW TO PLAY",
+    "page1_line1": "[2]Reveal a  single Wild 2 symbol to win the corresponding prize.",
+    "page1_line2": "[22]Reveal a double Wild 2 symbol to double the corresponding prize.",
+    "page1_line3": "[222]Reveal a triple Wild 2 symbol to triple the corresponding prize.",
+    "page1_line4": "[JOKER]Reveal 3 or more Joker Hat symbols to start the bonus game.",
+
+    "page2_line1": "[WHEEL]Spin the wheel to begin the bonus game.",
+    "page2_line2": "[WHEELPRIZE]Win a prize when the pointer lands on a prize value.",
+    "page2_line3": "[WHEELARROW]Advance to the next wheel when the pointer lands on an Arrow symbol.",
+    "page2_line4": "[WHEELX]Land on a black X and a Joker Hat is removed. The bonus ends when no Joker Hats remain.",
+
+
+    "winUpTo": "WIN UP TO",
+    "bonus": "BONUS",
+    "bonusNoWin": "NO BONUS WIN",
+    "bonusWin": "BONUS WIN",
+    "totalWin": "TOTAL WIN",
+    "infoBarText": "FIND WILD 2's TO WIN!",
+    "bonusInfo": "3 or more unlocks Bonus",
+    "bonusInfo2": "Zero Joker Hat = Bonus end",
+
+    "bonusSpinButton": "bonusSpinButton",
+    "respin": "Respin"
+  }
+}

@@ -1,0 +1,870 @@
+
+wheelFX.jpg
+size: 1936,2045
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/wheelSparks_0028
+  rotate: false
+  xy: 738, 751
+  size: 229, 334
+  orig: 864, 864
+  offset: 477, 240
+  index: -1
+nonTrans/wheelSparks_0057
+  rotate: true
+  xy: 481, 2
+  size: 223, 345
+  orig: 864, 864
+  offset: 153, 283
+  index: -1
+nonTrans/wheelSparks_0078
+  rotate: false
+  xy: 484, 711
+  size: 252, 374
+  orig: 864, 864
+  offset: 408, 359
+  index: -1
+nonTrans/wheelUpgrade_0000
+  rotate: false
+  xy: 2, 20
+  size: 102, 102
+  orig: 864, 864
+  offset: 380, 379
+  index: -1
+nonTrans/wheelUpgrade_0001
+  rotate: false
+  xy: 828, 118
+  size: 107, 107
+  orig: 864, 864
+  offset: 380, 378
+  index: -1
+nonTrans/wheelUpgrade_0007
+  rotate: false
+  xy: 2, 604
+  size: 479, 480
+  orig: 864, 864
+  offset: 194, 191
+  index: -1
+nonTrans/wheelUpgrade_0008
+  rotate: true
+  xy: 972, 1564
+  size: 479, 481
+  orig: 864, 864
+  offset: 191, 191
+  index: -1
+nonTrans/wheelUpgrade_0009
+  rotate: true
+  xy: 1452, 1084
+  size: 478, 480
+  orig: 864, 864
+  offset: 192, 191
+  index: -1
+nonTrans/wheelUpgrade_0010
+  rotate: false
+  xy: 1454, 603
+  size: 476, 479
+  orig: 864, 864
+  offset: 194, 191
+  index: -1
+nonTrans/wheelUpgrade_0011
+  rotate: true
+  xy: 1455, 1565
+  size: 478, 479
+  orig: 864, 864
+  offset: 193, 192
+  index: -1
+nonTrans/wheelUpgrade_0012
+  rotate: true
+  xy: 2, 124
+  size: 478, 477
+  orig: 864, 864
+  offset: 193, 194
+  index: -1
+nonTrans/wheelUpgrade_0013
+  rotate: true
+  xy: 962, 124
+  size: 474, 473
+  orig: 864, 864
+  offset: 196, 196
+  index: -1
+nonTrans/wheelUpgrade_0037
+  rotate: false
+  xy: 1454, 121
+  size: 475, 480
+  orig: 864, 864
+  offset: 196, 180
+  index: -1
+nonTrans/wheelUpgrade_0038
+  rotate: false
+  xy: 483, 227
+  size: 477, 482
+  orig: 864, 864
+  offset: 196, 179
+  index: -1
+nonTrans/wheelUpgrade_0039
+  rotate: false
+  xy: 2, 1086
+  size: 480, 483
+  orig: 864, 864
+  offset: 195, 179
+  index: -1
+nonTrans/wheelUpgrade_0040
+  rotate: true
+  xy: 970, 1078
+  size: 481, 480
+  orig: 864, 864
+  offset: 195, 184
+  index: -1
+nonTrans/wheelUpgrade_0041
+  rotate: true
+  xy: 489, 1561
+  size: 482, 481
+  orig: 864, 864
+  offset: 196, 183
+  index: -1
+nonTrans/wheelUpgrade_0042
+  rotate: false
+  xy: 969, 600
+  size: 483, 476
+  orig: 864, 864
+  offset: 195, 189
+  index: -1
+nonTrans/wheelUpgrade_0043
+  rotate: false
+  xy: 484, 1087
+  size: 484, 472
+  orig: 864, 864
+  offset: 194, 194
+  index: -1
+nonTrans/wheelUpgrade_0044
+  rotate: false
+  xy: 2, 1571
+  size: 485, 472
+  orig: 864, 864
+  offset: 193, 194
+  index: -1
+
+wheelFX2.jpg
+size: 2048,2016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/wheelSparks_0022
+  rotate: true
+  xy: 2, 1308
+  size: 186, 364
+  orig: 864, 864
+  offset: 490, 307
+  index: -1
+nonTrans/wheelSparks_0023
+  rotate: true
+  xy: 1449, 1481
+  size: 183, 378
+  orig: 864, 864
+  offset: 498, 292
+  index: -1
+nonTrans/wheelSparks_0024
+  rotate: true
+  xy: 1118, 1850
+  size: 164, 364
+  orig: 864, 864
+  offset: 522, 278
+  index: -1
+nonTrans/wheelSparks_0025
+  rotate: true
+  xy: 2, 1857
+  size: 157, 355
+  orig: 864, 864
+  offset: 535, 267
+  index: -1
+nonTrans/wheelSparks_0026
+  rotate: true
+  xy: 352, 1496
+  size: 181, 342
+  orig: 864, 864
+  offset: 516, 256
+  index: -1
+nonTrans/wheelSparks_0027
+  rotate: false
+  xy: 1829, 1318
+  size: 204, 346
+  orig: 864, 864
+  offset: 497, 247
+  index: -1
+nonTrans/wheelSparks_0029
+  rotate: true
+  xy: 2, 398
+  size: 253, 319
+  orig: 864, 864
+  offset: 456, 233
+  index: -1
+nonTrans/wheelSparks_0032
+  rotate: false
+  xy: 1357, 2
+  size: 327, 271
+  orig: 864, 864
+  offset: 387, 217
+  index: -1
+nonTrans/wheelSparks_0033
+  rotate: false
+  xy: 319, 117
+  size: 348, 262
+  orig: 864, 864
+  offset: 366, 213
+  index: -1
+nonTrans/wheelSparks_0034
+  rotate: false
+  xy: 1437, 535
+  size: 365, 252
+  orig: 864, 864
+  offset: 342, 208
+  index: -1
+nonTrans/wheelSparks_0035
+  rotate: false
+  xy: 1500, 789
+  size: 363, 218
+  orig: 864, 864
+  offset: 324, 203
+  index: -1
+nonTrans/wheelSparks_0036
+  rotate: false
+  xy: 2, 892
+  size: 377, 213
+  orig: 864, 864
+  offset: 309, 199
+  index: -1
+nonTrans/wheelSparks_0037
+  rotate: false
+  xy: 728, 1094
+  size: 388, 200
+  orig: 864, 864
+  offset: 295, 194
+  index: -1
+nonTrans/wheelSparks_0038
+  rotate: false
+  xy: 394, 1679
+  size: 379, 170
+  orig: 864, 864
+  offset: 281, 189
+  index: -1
+nonTrans/wheelSparks_0039
+  rotate: false
+  xy: 359, 1856
+  size: 377, 158
+  orig: 864, 864
+  offset: 268, 184
+  index: -1
+nonTrans/wheelSparks_0040
+  rotate: false
+  xy: 1484, 1845
+  size: 383, 169
+  orig: 864, 864
+  offset: 254, 178
+  index: -1
+nonTrans/wheelSparks_0041
+  rotate: false
+  xy: 1164, 1286
+  size: 388, 193
+  orig: 864, 864
+  offset: 243, 172
+  index: -1
+nonTrans/wheelSparks_0042
+  rotate: false
+  xy: 381, 877
+  size: 356, 215
+  orig: 864, 864
+  offset: 235, 168
+  index: -1
+nonTrans/wheelSparks_0043
+  rotate: false
+  xy: 2, 653
+  size: 346, 237
+  orig: 864, 864
+  offset: 229, 164
+  index: -1
+nonTrans/wheelSparks_0044
+  rotate: false
+  xy: 675, 368
+  size: 339, 259
+  orig: 864, 864
+  offset: 223, 161
+  index: -1
+nonTrans/wheelSparks_0048
+  rotate: true
+  xy: 323, 381
+  size: 252, 350
+  orig: 864, 864
+  offset: 203, 158
+  index: -1
+nonTrans/wheelSparks_0049
+  rotate: true
+  xy: 1016, 362
+  size: 252, 372
+  orig: 864, 864
+  offset: 197, 159
+  index: -1
+nonTrans/wheelSparks_0050
+  rotate: true
+  xy: 1500, 1009
+  size: 212, 375
+  orig: 864, 864
+  offset: 191, 173
+  index: -1
+nonTrans/wheelSparks_0051
+  rotate: true
+  xy: 778, 1296
+  size: 192, 384
+  orig: 864, 864
+  offset: 186, 180
+  index: -1
+nonTrans/wheelSparks_0052
+  rotate: true
+  xy: 696, 1495
+  size: 181, 371
+  orig: 864, 864
+  offset: 180, 207
+  index: -1
+nonTrans/wheelSparks_0053
+  rotate: true
+  xy: 775, 1678
+  size: 170, 377
+  orig: 864, 864
+  offset: 175, 213
+  index: -1
+nonTrans/wheelSparks_0054
+  rotate: true
+  xy: 738, 1851
+  size: 163, 378
+  orig: 864, 864
+  offset: 169, 224
+  index: -1
+nonTrans/wheelSparks_0055
+  rotate: true
+  xy: 1540, 1666
+  size: 177, 369
+  orig: 864, 864
+  offset: 163, 244
+  index: -1
+nonTrans/wheelSparks_0056
+  rotate: true
+  xy: 2, 1107
+  size: 199, 352
+  orig: 864, 864
+  offset: 158, 270
+  index: -1
+nonTrans/wheelSparks_0058
+  rotate: true
+  xy: 702, 629
+  size: 246, 338
+  orig: 864, 864
+  offset: 149, 296
+  index: -1
+nonTrans/wheelSparks_0059
+  rotate: true
+  xy: 2, 128
+  size: 268, 315
+  orig: 864, 864
+  offset: 145, 324
+  index: -1
+nonTrans/wheelSparks_0060
+  rotate: false
+  xy: 1758, 230
+  size: 288, 303
+  orig: 864, 864
+  offset: 145, 342
+  index: -1
+nonTrans/wheelSparks_0063
+  rotate: false
+  xy: 1009, 96
+  size: 346, 264
+  orig: 864, 864
+  offset: 165, 399
+  index: -1
+nonTrans/wheelSparks_0064
+  rotate: false
+  xy: 1390, 275
+  size: 366, 258
+  orig: 864, 864
+  offset: 165, 411
+  index: -1
+nonTrans/wheelSparks_0065
+  rotate: false
+  xy: 1116, 866
+  size: 382, 216
+  orig: 864, 864
+  offset: 168, 459
+  index: -1
+nonTrans/wheelSparks_0066
+  rotate: false
+  xy: 1118, 1084
+  size: 380, 200
+  orig: 864, 864
+  offset: 188, 481
+  index: -1
+nonTrans/wheelSparks_0067
+  rotate: false
+  xy: 1069, 1490
+  size: 378, 181
+  orig: 864, 864
+  offset: 203, 506
+  index: -1
+nonTrans/wheelSparks_0068
+  rotate: false
+  xy: 2, 1685
+  size: 390, 169
+  orig: 864, 864
+  offset: 206, 524
+  index: -1
+nonTrans/wheelSparks_0069
+  rotate: false
+  xy: 1154, 1673
+  size: 384, 170
+  orig: 864, 864
+  offset: 221, 530
+  index: -1
+nonTrans/wheelSparks_0070
+  rotate: false
+  xy: 356, 1107
+  size: 370, 193
+  orig: 864, 864
+  offset: 245, 513
+  index: -1
+nonTrans/wheelSparks_0071
+  rotate: false
+  xy: 739, 877
+  size: 375, 215
+  orig: 864, 864
+  offset: 248, 496
+  index: -1
+nonTrans/wheelSparks_0072
+  rotate: false
+  xy: 350, 635
+  size: 350, 240
+  orig: 864, 864
+  offset: 278, 476
+  index: -1
+nonTrans/wheelSparks_0073
+  rotate: false
+  xy: 669, 103
+  size: 338, 263
+  orig: 864, 864
+  offset: 298, 458
+  index: -1
+nonTrans/wheelSparks_0079
+  rotate: true
+  xy: 1042, 616
+  size: 248, 393
+  orig: 864, 864
+  offset: 416, 345
+  index: -1
+nonTrans/wheelSparks_0080
+  rotate: true
+  xy: 368, 1302
+  size: 191, 408
+  orig: 864, 864
+  offset: 477, 333
+  index: -1
+nonTrans/wheelSparks_0081
+  rotate: true
+  xy: 2, 1503
+  size: 180, 348
+  orig: 864, 864
+  offset: 493, 320
+  index: -1
+nonTrans/wheelUpgrade_0002
+  rotate: true
+  xy: 1554, 1223
+  size: 256, 265
+  orig: 864, 864
+  offset: 302, 294
+  index: -1
+
+wheelFX3.jpg
+size: 1873,1906
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/wheelUpgrade_0005
+  rotate: false
+  xy: 942, 14
+  size: 466, 467
+  orig: 864, 864
+  offset: 201, 197
+  index: -1
+nonTrans/wheelUpgrade_0006
+  rotate: true
+  xy: 2, 478
+  size: 471, 470
+  orig: 864, 864
+  offset: 197, 198
+  index: -1
+nonTrans/wheelUpgrade_0014
+  rotate: false
+  xy: 1396, 1446
+  size: 462, 458
+  orig: 864, 864
+  offset: 202, 199
+  index: -1
+nonTrans/wheelUpgrade_0028
+  rotate: true
+  xy: 1410, 68
+  size: 445, 461
+  orig: 864, 864
+  offset: 201, 184
+  index: -1
+nonTrans/wheelUpgrade_0029
+  rotate: false
+  xy: 1409, 515
+  size: 449, 463
+  orig: 864, 864
+  offset: 201, 182
+  index: -1
+nonTrans/wheelUpgrade_0030
+  rotate: false
+  xy: 1396, 980
+  size: 453, 464
+  orig: 864, 864
+  offset: 201, 181
+  index: -1
+nonTrans/wheelUpgrade_0031
+  rotate: false
+  xy: 949, 485
+  size: 458, 467
+  orig: 864, 864
+  offset: 199, 181
+  index: -1
+nonTrans/wheelUpgrade_0032
+  rotate: false
+  xy: 476, 1434
+  size: 463, 470
+  orig: 864, 864
+  offset: 198, 181
+  index: -1
+nonTrans/wheelUpgrade_0033
+  rotate: false
+  xy: 475, 955
+  size: 465, 468
+  orig: 864, 864
+  offset: 198, 185
+  index: -1
+nonTrans/wheelUpgrade_0034
+  rotate: false
+  xy: 471, 6
+  size: 469, 470
+  orig: 864, 864
+  offset: 197, 185
+  index: -1
+nonTrans/wheelUpgrade_0035
+  rotate: false
+  xy: 2, 951
+  size: 471, 472
+  orig: 864, 864
+  offset: 197, 185
+  index: -1
+nonTrans/wheelUpgrade_0036
+  rotate: false
+  xy: 2, 1425
+  size: 472, 479
+  orig: 864, 864
+  offset: 197, 180
+  index: -1
+nonTrans/wheelUpgrade_0045
+  rotate: true
+  xy: 474, 483
+  size: 466, 473
+  orig: 864, 864
+  offset: 191, 194
+  index: -1
+nonTrans/wheelUpgrade_0046
+  rotate: false
+  xy: 2, 2
+  size: 467, 474
+  orig: 864, 864
+  offset: 191, 194
+  index: -1
+nonTrans/wheelUpgrade_0047
+  rotate: false
+  xy: 941, 1430
+  size: 453, 474
+  orig: 864, 864
+  offset: 190, 194
+  index: -1
+nonTrans/wheelUpgrade_0048
+  rotate: false
+  xy: 942, 954
+  size: 452, 474
+  orig: 864, 864
+  offset: 190, 194
+  index: -1
+
+wheelFX4.jpg
+size: 1785,1859
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/wheelUpgrade_0004
+  rotate: false
+  xy: 1335, 74
+  size: 438, 442
+  orig: 864, 864
+  offset: 216, 208
+  index: -1
+nonTrans/wheelUpgrade_0015
+  rotate: false
+  xy: 884, 489
+  size: 444, 455
+  orig: 864, 864
+  offset: 208, 195
+  index: -1
+nonTrans/wheelUpgrade_0016
+  rotate: false
+  xy: 1330, 518
+  size: 441, 453
+  orig: 864, 864
+  offset: 205, 194
+  index: -1
+nonTrans/wheelUpgrade_0017
+  rotate: true
+  xy: 1326, 1417
+  size: 440, 457
+  orig: 864, 864
+  offset: 202, 188
+  index: -1
+nonTrans/wheelUpgrade_0018
+  rotate: false
+  xy: 443, 932
+  size: 439, 461
+  orig: 864, 864
+  offset: 203, 184
+  index: -1
+nonTrans/wheelUpgrade_0019
+  rotate: false
+  xy: 2, 1394
+  size: 438, 463
+  orig: 864, 864
+  offset: 204, 182
+  index: -1
+nonTrans/wheelUpgrade_0020
+  rotate: false
+  xy: 442, 1395
+  size: 438, 462
+  orig: 864, 864
+  offset: 204, 183
+  index: -1
+nonTrans/wheelUpgrade_0021
+  rotate: false
+  xy: 2, 466
+  size: 438, 462
+  orig: 864, 864
+  offset: 204, 183
+  index: -1
+nonTrans/wheelUpgrade_0022
+  rotate: false
+  xy: 2, 2
+  size: 438, 462
+  orig: 864, 864
+  offset: 204, 183
+  index: -1
+nonTrans/wheelUpgrade_0023
+  rotate: false
+  xy: 2, 930
+  size: 439, 462
+  orig: 864, 864
+  offset: 203, 183
+  index: -1
+nonTrans/wheelUpgrade_0024
+  rotate: false
+  xy: 442, 467
+  size: 440, 461
+  orig: 864, 864
+  offset: 203, 184
+  index: -1
+nonTrans/wheelUpgrade_0025
+  rotate: false
+  xy: 442, 6
+  size: 441, 459
+  orig: 864, 864
+  offset: 202, 186
+  index: -1
+nonTrans/wheelUpgrade_0026
+  rotate: true
+  xy: 1326, 973
+  size: 442, 456
+  orig: 864, 864
+  offset: 202, 189
+  index: -1
+nonTrans/wheelUpgrade_0027
+  rotate: false
+  xy: 882, 1397
+  size: 442, 460
+  orig: 864, 864
+  offset: 202, 185
+  index: -1
+nonTrans/wheelUpgrade_0049
+  rotate: false
+  xy: 884, 946
+  size: 440, 449
+  orig: 864, 864
+  offset: 205, 193
+  index: -1
+nonTrans/wheelUpgrade_0050
+  rotate: true
+  xy: 885, 33
+  size: 454, 448
+  orig: 864, 864
+  offset: 192, 194
+  index: -1
+
+wheelFX5.jpg
+size: 1923,1605
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/wheelSparks_0030
+  rotate: false
+  xy: 1266, 1290
+  size: 280, 313
+  orig: 864, 864
+  offset: 434, 227
+  index: -1
+nonTrans/wheelSparks_0031
+  rotate: false
+  xy: 1548, 1318
+  size: 306, 285
+  orig: 864, 864
+  offset: 412, 222
+  index: -1
+nonTrans/wheelSparks_0045
+  rotate: true
+  xy: 1641, 722
+  size: 306, 280
+  orig: 864, 864
+  offset: 218, 158
+  index: -1
+nonTrans/wheelSparks_0046
+  rotate: false
+  xy: 1609, 50
+  size: 303, 303
+  orig: 864, 864
+  offset: 213, 157
+  index: -1
+nonTrans/wheelSparks_0047
+  rotate: true
+  xy: 685, 2
+  size: 292, 329
+  orig: 864, 864
+  offset: 208, 155
+  index: -1
+nonTrans/wheelSparks_0061
+  rotate: false
+  xy: 1556, 1030
+  size: 304, 286
+  orig: 864, 864
+  offset: 153, 365
+  index: -1
+nonTrans/wheelSparks_0062
+  rotate: false
+  xy: 353, 3
+  size: 330, 281
+  orig: 864, 864
+  offset: 153, 376
+  index: -1
+nonTrans/wheelSparks_0074
+  rotate: true
+  xy: 1321, 26
+  size: 327, 286
+  orig: 864, 864
+  offset: 314, 438
+  index: -1
+nonTrans/wheelSparks_0075
+  rotate: true
+  xy: 1255, 885
+  size: 300, 299
+  orig: 864, 864
+  offset: 347, 418
+  index: -1
+nonTrans/wheelSparks_0076
+  rotate: false
+  xy: 1016, 12
+  size: 303, 324
+  orig: 864, 864
+  offset: 349, 398
+  index: -1
+nonTrans/wheelSparks_0077
+  rotate: true
+  xy: 2, 2
+  size: 282, 349
+  orig: 864, 864
+  offset: 374, 379
+  index: -1
+nonTrans/wheelUpgrade_0003
+  rotate: false
+  xy: 1246, 355
+  size: 393, 396
+  orig: 864, 864
+  offset: 227, 232
+  index: -1
+nonTrans/wheelUpgrade_0051
+  rotate: true
+  xy: 2, 1163
+  size: 440, 427
+  orig: 864, 864
+  offset: 206, 194
+  index: -1
+nonTrans/wheelUpgrade_0052
+  rotate: true
+  xy: 2, 722
+  size: 439, 427
+  orig: 864, 864
+  offset: 207, 194
+  index: -1
+nonTrans/wheelUpgrade_0053
+  rotate: false
+  xy: 429, 296
+  size: 435, 424
+  orig: 864, 864
+  offset: 212, 196
+  index: -1
+nonTrans/wheelUpgrade_0054
+  rotate: true
+  xy: 2, 286
+  size: 434, 425
+  orig: 864, 864
+  offset: 213, 195
+  index: -1
+nonTrans/wheelUpgrade_0055
+  rotate: true
+  xy: 431, 1179
+  size: 424, 420
+  orig: 864, 864
+  offset: 214, 199
+  index: -1
+nonTrans/wheelUpgrade_0056
+  rotate: true
+  xy: 847, 753
+  size: 424, 406
+  orig: 864, 864
+  offset: 216, 212
+  index: -1
+nonTrans/wheelUpgrade_0057
+  rotate: true
+  xy: 431, 753
+  size: 424, 414
+  orig: 864, 864
+  offset: 216, 203
+  index: -1
+nonTrans/wheelUpgrade_0058
+  rotate: true
+  xy: 853, 1187
+  size: 416, 411
+  orig: 864, 864
+  offset: 221, 203
+  index: -1
+nonTrans/wheelUpgrade_0059
+  rotate: true
+  xy: 866, 338
+  size: 413, 378
+  orig: 864, 864
+  offset: 220, 229
+  index: -1
